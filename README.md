@@ -13,5 +13,5 @@
 * `smsclient` updates the delivery status on its UI accordingly
 * If any recepients responds to the message, the `smsclientapi` retrieves it through the Twilio Cloud and uses the same events channel to push that to the UI of `smsclient` app.
 
-Inline-style: 
+**The flow of communication:**
 ![ReactJS, NodeJS, Twilio](twilio_demo.png "The Demo Setup")
