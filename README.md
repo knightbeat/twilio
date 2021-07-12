@@ -1,4 +1,4 @@
-# Sending an SMS to a List of Recepients using Twilio
+# Sending an SMS to a List of Recipients using Twilio
 ## This demo consists of 2 parts
 1. Client API - `smsclientapi`, a NodeJS based backend service to proxy Twilio APIs for the application specific usage
 2. Client App - `smsclient`, a ReactJS based web application
